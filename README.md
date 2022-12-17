@@ -1,5 +1,3 @@
-I'm Tang Tao.
+I'm is-try.
 
-I'm learning to make beautiful softwares.
-
-Contact me with yrr.tt@qq.com if you need.
+I'm learning to code.
