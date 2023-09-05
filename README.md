@@ -1,3 +1,3 @@
-I'm Tang Tao.
+我不过是个学徒罢了
 
-I'm learning something here.
+在世间行走只为习得知识
